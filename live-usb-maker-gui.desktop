@@ -1,11 +1,6 @@
 [Desktop Entry]
-<<<<<<< HEAD
-Name=Live-usb maker-gui
-Name[ca]=Live-usb maker
-=======
 Name=Live-usb maker
 Name[ca]=
->>>>>>> upstream/master
 Name[de]=live-USB maker
 Name[el]=Δημιουργός Live-usb
 Name[es]=Confeccionar Live-USB
@@ -14,19 +9,11 @@ Name[it]=Crea Live-usb
 Name[ja]=ライブ USB の生成
 Name[nl]=Live-usb maker
 Name[pt]=Criar Instalação Externa USB
-<<<<<<< HEAD
-Name[ro]=Live-usb maker
-Name[ru]=Создание Live-usb
-Name[sv]=Live-usb maker
-Comment=Create a full-featured live-usb
-Comment[ca]=Create a full-featured live-usb
-=======
 Name[ro]=
 Name[ru]=Создание Live-usb
 Name[sv]=Live-usb maker
 Comment=Create a full-featured live-usb
 Comment[ca]=
->>>>>>> upstream/master
 Comment[de]=live-USB Installation in Vollfunktion
 Comment[el]=Δημιούργησε live-usb με πλήρη χαρακτηριστικά
 Comment[es]=Crear un Live-USB con todas los funcionalidades
@@ -35,21 +22,11 @@ Comment[it]=Realizzare una usb-Live completa
 Comment[ja]=フル機能のライブ USB を生成します
 Comment[nl]=Creëer een volledig uitgeruste live-usb
 Comment[pt]=Cria uma instalação externa USB com todas as funcionalidades
-<<<<<<< HEAD
-Comment[ro]=Create a full-featured live-usb
-=======
 Comment[ro]=
->>>>>>> upstream/master
 Comment[ru]=Создать полнофункциональный live-usb
 Comment[sv]=Skapa en live-usb med alla möjligheter
 Icon=drive-removable-media-usb
 Type=Application
-<<<<<<< HEAD
-Terminal=true
-Exec=su-to-root -X -c live-usb-maker-gui
-Categories=ConsoleOnly;System;MX-Live;
-=======
 Terminal=false
 Exec=su-to-root -X -c live-usb-maker-gui
 Categories=System;MX-Live;
->>>>>>> upstream/master
